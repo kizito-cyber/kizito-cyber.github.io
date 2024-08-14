@@ -1149,8 +1149,8 @@ button:focus {
 /*============== contact_area css ================*/
 /*============== contact_area css ================*/
 .contact_area {
-    background: url(../img/subscribe-bg.png) no-repeat center; /* Replace with the path to your image */
-    padding: 50px,20px,20px; /* Adds some padding to the section (optional) */
+    background: url(../img/contact-bg.png) no-repeat center; /* Replace with the path to your image */
+    padding: 50px 20px 20px; /* Adds some padding to the section (optional) */
 }
 
 .mapBox {
@@ -1192,7 +1192,7 @@ button:focus {
     }
 
 .contact_form .form-group {
-    margin-bottom: 10px;
+    margin-bottom: 20px; /* Increased margin to add more space between input fields */
 }
 
     .contact_form .form-group .form-control {
