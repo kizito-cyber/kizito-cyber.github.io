@@ -1164,6 +1164,10 @@ button:focus {
     padding-left: 45px;
 }
 
+.contact-me {
+    color: white;
+    margin-top: -30px; /* Adjust this value to move the text up */
+}
     .contact_info .info_item i {
         position: absolute;
         left: 0;
